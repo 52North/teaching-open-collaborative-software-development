@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This project is no longer maintained and will not receive any further updates. If you plan to continue using it, please be aware that future security issues will not be addressed.
+
 # Teaching Open Collaborative Software Development
 
 ## About
@@ -15,7 +19,7 @@ This project is about making teaching of software development in the form of pro
 
 To support people who are either involved in open source software projects or teaching (or both) we want to create **guidelines for teaching collaborative software development with GitHub**.
 
-> The ultimate goal is to increase the quality of software development in project seminars so that geospatial open source software can benefit from (a) direct contributions, and (b) programmers that are acquainted with the ìopen source wayî.
+> The ultimate goal is to increase the quality of software development in project seminars so that geospatial open source software can benefit from (a) direct contributions, and (b) programmers that are acquainted with the ‚Äúopen source way‚Äù.
 
 ## Focus
 
